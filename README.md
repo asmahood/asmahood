@@ -1,17 +1,21 @@
-## Hi there 👋
-
-My name is Adam Mahood. I am a Software Developer and recent graduate from the University of Waterloo. I graduated with a Bachelor of Mathematics in [Computational Mathematics](https://www.youtube.com/watch?v=2DkgzxUSi5U) and a minor in [Computing](https://academic-calendar-archive.uwaterloo.ca/undergraduate-studies/2022-2023/page/MATH-Computing-Minor.html).
+<h1 align="center">Hi there 👋 I'm Adam Mahood</h1>
+<h3 align="center">Full Stack Software Developer</h3>
+<h4 align="center">Bachelor of Mathematics in Computational Mathematics, Minor in Computing</h4>
 
 ## My Github Stats
 
-<a href="https://github.com/asmahood">
+<div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=asmahood&theme=dracula&show_icons=true" />
-</a>
-<a href="https://github.com/asmahood">
+  <br />
+  <br />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmahood&theme=dracula&layout=compact&langs_count=8&card_width=320" />
+  <br />
+  <br />
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmahood&theme=dracula&hide_border=false" />
-</a>
-
-![](https://github-profile-trophy.vercel.app/?username=asmahood&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+  <br />
+  <br />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=asmahood&theme=dracula&no-frame=false&no-bg=true&margin-w=4&column=-1" />
+</div>
 
 <!--
 **asmahood/asmahood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
